@@ -6,6 +6,28 @@ M7x-Framework is a tool programmed by Me that consists of more than one section 
 # Screenshot of the tool
 <img src="https://d.top4top.io/p_2018djwdc1.jpg">
 
+# Libraries & Modules
+
+scapy (packet sniffing, ARP spoofing)
+
+requests (web requests)
+
+geoip (geolite2) (IP location)
+
+pyshorteners (link shortening)
+
+socket, subprocess, os, sys, re
+
+dns.resolver, hashlib, pyautogui
+
+py_compile, secrets, webbrowser
+
+BeautifulSoup (HTML parsing)
+
+googlesearch
+
+
+
 # Features
 ### 1. Information Gathering
 IP geolocation lookup (using GeoLite2)
