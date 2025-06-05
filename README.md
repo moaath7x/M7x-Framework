@@ -7,7 +7,7 @@ M7x-Framework is a tool programmed by Me that consists of more than one section 
 <img src="https://d.top4top.io/p_2018djwdc1.jpg">
 
 # Features
-## 1. Information Gathering
+### 1. Information Gathering
 IP geolocation lookup (using GeoLite2)
 
 DNS record analysis
@@ -18,14 +18,14 @@ Instagram public data extraction (bio, ID, status, profile picture)
 
 Wordlist (password list) generator
 
-## 2. Sniffing & Spoofing
+### 2. Sniffing & Spoofing
 DNS spoofing (MITM)
 
 HTTP request sniffing
 
 ARP spoofing
 
-## 3. Password Attacks
+### 3. Password Attacks
 Hash type detection (MD5, SHA1, SHA256, etc.)
 
 Hash encryption (MD5, SHA, SHA3)
@@ -34,14 +34,14 @@ Brute-force hash cracking using wordlists
 
 Python script encryption
 
-## 4. Network Scanner
+### 4. Network Scanner
 ARP network scanner (local devices)
 
 Port scanner (common services)
 
 Live packet analyzer with service & location info
 
-## 5. Web Scanning
+### 5. Web Scanning
 SQL dork search (Google-based)
 
 XSS vulnerability scanner
@@ -52,7 +52,7 @@ Admin page & hidden path finder
 
 Subdomain discovery
 
-## 6. Exploitation Tools
+### 6. Exploitation Tools
 Nmap-based vulnerability scanning
 
 Metasploit payload generation (Android, Windows, Linux, PHP, Mac)
@@ -63,7 +63,7 @@ Keylogger builder (WIP)
 
 Remote Access Trojan (M7x-RAT) with file download/upload, shell, and screenshot
 
-## 7. Other Tools
+### 7. Other Tools
 Proxy scraper (HTTP, HTTPS, SOCKS4, SOCKS5)
 
 Free hosting & FTP account generator
@@ -72,7 +72,7 @@ Link shortener (TinyURL)
 
 Visa card number generator (demo only)
 
-## 8. External Links
+### 8. External Links
 GitHub, Telegram, YouTube, Instagram, and more
 
 
